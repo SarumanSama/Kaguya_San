@@ -1,7 +1,6 @@
 # Heroku Deploy Guide
 ##  Mizuhara 👒<br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)]
-
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 1. Click on the heroku button and login or sign up for Heroku
 2. Enter the following fields
     | KEY | VALUE |
